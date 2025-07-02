@@ -1,0 +1,7 @@
+{
+  "verifier_supported_profiles": ["jwt-basic@1.0", "vc-w3c@2.0"],
+  "wallet_response": {
+    "selected_profile": "jwt-basic@1.0",
+    "credential": "<SIGNED_CREDENTIAL>"
+  }
+}

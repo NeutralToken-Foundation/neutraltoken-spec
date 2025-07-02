@@ -1,0 +1,17 @@
+{
+  "header": {
+    "typ": "JWT",
+    "alg": "RS256"
+  },
+  "payload": {
+    "type": "neutraltoken.eligibility",
+    "claim": {
+      "age_verified": true,
+      "min_age": 18
+    },
+    "iss": "https://issuer.example.com",
+    "iat": 1719700000,
+    "exp": 1719700300
+  },
+  "signature": "[BASE64_SIGNATURE]"
+}

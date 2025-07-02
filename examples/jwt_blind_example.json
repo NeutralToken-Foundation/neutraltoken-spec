@@ -1,0 +1,16 @@
+{
+  "protected": {
+    "alg": "RS256",
+    "typ": "JWT"
+  },
+  "payload": {
+    "claim": {
+      "age_verified": true,
+      "min_age": 21
+    },
+    "iat": 1719700000,
+    "exp": 1719700600,
+    "iss": "https://issuer.example.com"
+  },
+  "signature": "[BLIND_SIGNATURE_VALUE]"
+}

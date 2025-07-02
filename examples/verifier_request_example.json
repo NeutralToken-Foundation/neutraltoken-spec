@@ -1,0 +1,5 @@
+{
+  "request": "proof_of_age",
+  "credential_profile": "jwt-basic@1.0",
+  "min_age": 21
+}

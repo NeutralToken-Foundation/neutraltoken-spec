@@ -1,0 +1,8 @@
+{
+  "kty": "RSA",
+  "use": "sig",
+  "kid": "issuer-1",
+  "alg": "RS256",
+  "n": "[MODULUS]",
+  "e": "AQAB"
+}
