@@ -52,7 +52,7 @@ Need help? Explore our community resources or contact the Foundation for support
 
 ## 🛠 Reference Implementations
 
-- [neutraltoken-widget](https://github.com/NeutralToken-Foundation/neutraltoken-widget)
+- [neutraltoken-core](https://github.com/NeutralToken-Foundation/neutraltoken)
 - [neutraltoken-api](https://github.com/NeutralToken-Foundation/neutraltoken-api) *(optional)*
 
 ## 📬 Contributions
@@ -61,5 +61,11 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) and open a PR 
 
 - See [governance/ISSUER_REGISTRY_TEMPLATE.md](governance/ISSUER_REGISTRY_TEMPLATE.md) for listing issuers.
 - Test scenarios are listed in [test/TEST_CASES.md](test/TEST_CASES.md).
+
+## 🧑‍💻 Sample Projects
+
+- [demo-issuer](https://github.com/NeutralToken-Foundation/demo-issuer): A sample/test NeutralToken Issuer for development and integration testing.
+- [demo-verifier](https://github.com/NeutralToken-Foundation/demo-verifier): A sample/test NeutralToken Verifier for development and integration testing.
+
 ---
 *This repository defines the canonical specification for the NeutralToken protocol.*

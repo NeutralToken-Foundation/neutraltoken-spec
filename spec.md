@@ -9,3 +9,12 @@ This repository defines the canonical specification for the **NeutralToken** pro
 - [Glossary](glossary.md)
 
 Each section is versioned independently to ensure stability and allow future extensions.
+
+## 🧑‍💻 Sample Projects
+
+- [demo-issuer](https://github.com/NeutralToken-Foundation/demo-issuer): A sample/test NeutralToken Issuer for development and integration testing.
+- [demo-verifier](https://github.com/NeutralToken-Foundation/demo-verifier): A sample/test NeutralToken Verifier for development and integration testing.
+
+## 🛠 Core SDK
+
+The NeutralToken JavaScript SDK and embeddable components are now maintained in the [core project](https://github.com/NeutralToken-Foundation/neutraltoken). 

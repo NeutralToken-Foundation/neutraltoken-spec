@@ -34,7 +34,7 @@ By default, badges are short-lived and self-expire (e.g., 5–15 minutes). Advan
 
 ### ❓ How do I integrate NeutralToken into my website?
 
-Use the [neutraltoken-widget](https://github.com/NeutralToken-Foundation/neutraltoken-widget) SDK or follow the [flows/verifier_flow.md](../flows/verifier_flow.md) guide to issue requests and verify credentials.
+Use the [neutraltoken-core](https://github.com/NeutralToken-Foundation/neutraltoken) SDK or follow the [flows/verifier_flow.md](../flows/verifier_flow.md) guide to issue requests and verify credentials.
 
 ---
 
@@ -53,4 +53,8 @@ Verifiers download and cache issuer public keys. A presented badge is verified l
 ### ❓ What personal data is included in a badge?
 
 Only the claims required for the specific verification (e.g., `age_verified`) are included. No names or persistent identifiers are needed.
+
+### ❓ Are there sample Issuer or Verifier projects?
+
+Yes! See [demo-issuer](https://github.com/NeutralToken-Foundation/demo-issuer) for a sample Issuer and [demo-verifier](https://github.com/NeutralToken-Foundation/demo-verifier) for a sample Verifier.
 
