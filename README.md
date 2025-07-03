@@ -50,10 +50,14 @@ Need help? Explore our community resources or contact the Foundation for support
 - Specification: [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 - Reference implementations: MIT (see each respective repo)
 
-## 🛠 Reference Implementations
+## 🛠 Core SDK
 
-- [neutraltoken-core](https://github.com/NeutralToken-Foundation/neutraltoken)
-- [neutraltoken-api](https://github.com/NeutralToken-Foundation/neutraltoken-api) *(optional)*
+- [neutraltoken-core](https://github.com/NeutralToken-Foundation/neutraltoken): The NeutralToken JavaScript SDK and embeddable components.
+
+## 🧑‍💻 Reference Implementations / Sample Projects
+
+- [demo-issuer](https://github.com/NeutralToken-Foundation/demo-issuer): A sample/test NeutralToken Issuer for development and integration testing.
+- [demo-verifier](https://github.com/NeutralToken-Foundation/demo-verifier): A sample/test NeutralToken Verifier for development and integration testing.
 
 ## 📬 Contributions
 
@@ -61,11 +65,6 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) and open a PR 
 
 - See [governance/ISSUER_REGISTRY_TEMPLATE.md](governance/ISSUER_REGISTRY_TEMPLATE.md) for listing issuers.
 - Test scenarios are listed in [test/TEST_CASES.md](test/TEST_CASES.md).
-
-## 🧑‍💻 Sample Projects
-
-- [demo-issuer](https://github.com/NeutralToken-Foundation/demo-issuer): A sample/test NeutralToken Issuer for development and integration testing.
-- [demo-verifier](https://github.com/NeutralToken-Foundation/demo-verifier): A sample/test NeutralToken Verifier for development and integration testing.
 
 ---
 *This repository defines the canonical specification for the NeutralToken protocol.*
